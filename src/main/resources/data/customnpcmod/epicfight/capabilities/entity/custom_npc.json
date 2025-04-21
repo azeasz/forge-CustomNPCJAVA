@@ -1,0 +1,18 @@
+{
+    "humanoid_model": {
+        "head": "head",
+        "body": "body",
+        "rightArm": "right_arm",
+        "leftArm": "left_arm",
+        "rightLeg": "right_leg",
+        "leftLeg": "left_leg"
+    },
+    "armature_model": {
+        "head": "Head",
+        "body": "Body",
+        "rightArm": "Right_Arm",
+        "leftArm": "Left_Arm",
+        "rightLeg": "Right_Leg",
+        "leftLeg": "Left_Leg"
+    }
+}
